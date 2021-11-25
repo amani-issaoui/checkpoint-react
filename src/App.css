@@ -1,0 +1,26 @@
+
+.contenu{
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.form{
+  
+  
+  margin-top: 50px;
+  margin-left: 50px;
+ 
+}
+.contain{
+  
+  display: flex;
+  flex-direction: column;
+ justify-content: space-between;
+}
+.bt{
+  margin-top: 20px;
+  background-color:#fe4f59;
+ 
+}
